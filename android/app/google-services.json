@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703306803714",
+    "project_id": "github-cba6a",
+    "storage_bucket": "github-cba6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703306803714:android:1a6cad863c56c55745151b",
+        "android_client_info": {
+          "package_name": "com.example.gitprogect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOlbQzfGmtPMbwIu_pUnv3obv8VWPM09Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
