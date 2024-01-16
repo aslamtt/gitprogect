@@ -22,6 +22,14 @@ class _MyNewState extends State<MyNew> {
                   Column(
                     children: [
                       Container(
+                        height: 500,
+                        width: 500,
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Colors.orange.shade50,
+                        ),
+                      ),
+                      Container(
                         height: 200,
                         width: 200,
                         color: Colors.orange,
